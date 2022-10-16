@@ -1,0 +1,197 @@
+
+
+
+body
+{
+
+background-image: url('https://github.com/Ziratsu/GSAP-Accueil-1/blob/master/ressources/foretlumdown.jpg?raw=true');
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+
+#lignlogo
+
+{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+margin-right: 30px;
+
+}
+
+
+
+#ligne
+{
+    margin-left: 80px;
+    margin-top: 50px;
+    
+}
+
+
+
+
+#lign1
+{
+width: 250px;
+height: 2px;
+background-color: white;
+margin-bottom: 20px;
+}
+
+
+
+#lign2
+{
+width: 150px;
+height: 2px;
+background-color: white;
+
+}
+
+
+#h1bouton h1
+{
+color: white;
+font-size: 70px;
+
+
+}
+
+h1 span
+{
+    position: relative;
+}
+
+button
+{
+background: none;
+color: white;
+border: 1px solid white;
+padding: 18px 70px;
+margin-right: 10px;
+font-size: 25px;
+}
+
+
+#h1bouton 
+{
+
+margin-left: 80px;
+margin-top: 170px;
+position: relative;
+}
+
+
+#bouton
+
+{
+margin-top: -10px;
+
+}
+
+#icon p
+{
+background-color: white;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+#articl
+{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+
+
+#icon
+{
+   
+   margin-top: 220px;
+   margin-right: 52px;
+   
+}
+
+
+#ico
+{
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
